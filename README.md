@@ -4,7 +4,8 @@
 Created by James, self‑taught universe builder.  
 This framework models quake prediction and symbolic emergence using tensor drift, echo resonance, and ancestral collapse geometry across five dimensions.
 
----
+---🔭 [Explore the full framework](./5d-universe-framework.md)
+
 
 ## 🔍 Core Concepts
 - **Tensor Drift** → models subtle shifts in seismic fields across dimensional overlays
